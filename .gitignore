@@ -10,6 +10,7 @@ Thumbs.db
 .project
 .settings/
 .classpath
+.junie
 
 # Build Outputs
 dist/
